@@ -60,4 +60,4 @@ The script globally substitues the following substrings in the variable names wi
     * leading t - Time
     * leading f - Frequency
     
-##### 5. The script averages the data in the rest of 66 the variables for each subject(SubjectID) and activity(Activity) , and export to CleanData.txt
+##### 5. The script averages the data in the rest of 66 variables for each subject(SubjectID) and activity(Activity) , and export to CleanData.txt
